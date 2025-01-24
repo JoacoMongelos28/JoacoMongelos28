@@ -1,9 +1,7 @@
 <h1 align="center">Joaquin Mongelos</h1>
 <h3 align="center">I am a passionate backend developer from Argentina</h3>
 
-- I’m currently working on **a Blackjack game**
-
-- I’m currently learning **Angular and ReactJS**
+- I’m currently learning **ReactJS**
 
 - How to reach me **joaquinmongelos75@gmail.com**
 
