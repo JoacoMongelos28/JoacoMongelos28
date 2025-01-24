@@ -1,5 +1,5 @@
 <h1 align="center">Joaquin Mongelos</h1>
-<h3 align="center">I am a passionate backend developer from Argentina</h3>
+<h3 align="center">I am a Backend and Frontend Developer, passionate about building scalable and efficient applications</h3>
 
 - I’m currently learning **ReactJS**
 
